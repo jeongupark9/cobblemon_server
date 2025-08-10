@@ -1,1 +1,2 @@
 *.jar filter=lfs diff=lfs merge=lfs -text
+fabric-server-mc.1.21.1-loader.0.16.14-launcher.1.0.3.jar filter=lfs diff=lfs merge=lfs -text
