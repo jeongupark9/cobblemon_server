@@ -1,0 +1,23 @@
+# 세계 파일 (대형 바이너리)
+world/*
+!world/datapacks/
+!world/datapacks/*
+*.mca
+*.dat_old
+
+# 로그와 백업
+logs/
+backups/
+crash-reports/
+
+# 임시 파일
+*.tmp
+*.bak
+session.lock
+
+# 서버 설정 (보안상 무시)
+eula.txt
+ops.json
+whitelist.json
+banned-players.json
+banned-ips.json
